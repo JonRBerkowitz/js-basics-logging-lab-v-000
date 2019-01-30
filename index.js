@@ -1,2 +1,2 @@
 const driver = 'bob';
-console.log('is the driver variable name');
+console.log(driver, 'is the driver variable name');
